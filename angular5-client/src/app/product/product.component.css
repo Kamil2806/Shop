@@ -1,0 +1,6 @@
+.formBorder {
+  border: solid gray 1px;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 30px;
+}
